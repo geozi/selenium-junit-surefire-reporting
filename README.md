@@ -70,8 +70,7 @@ Element 2:
 ![intrasoft-elem2](https://github.com/user-attachments/assets/a21dea6c-d805-4365-bb01-2049fdec00a1)
 
 Element 3:
-![intrasoft-elem3](https://github.com/user-attachments/assets/ef022a62-40cd-47ef-9e0f-85329601c9cc)
-
+![intrasoft-elem3](https://github.com/user-attachments/assets/665b258d-def9-4e08-944b-6122dacf6fb4)
 
 Element 4:
 ![intrasoft-elem4](https://github.com/user-attachments/assets/c35ef7d2-d732-49d5-9548-7cc874c46ed6)
